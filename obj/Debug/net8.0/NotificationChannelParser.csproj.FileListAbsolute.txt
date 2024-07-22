@@ -1,0 +1,14 @@
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/bin/Debug/net8.0/NotificationChannelParser
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/bin/Debug/net8.0/NotificationChannelParser.deps.json
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/bin/Debug/net8.0/NotificationChannelParser.runtimeconfig.json
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/bin/Debug/net8.0/NotificationChannelParser.dll
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/bin/Debug/net8.0/NotificationChannelParser.pdb
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.AssemblyInfoInputs.cache
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.AssemblyInfo.cs
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.csproj.CoreCompileInputs.cache
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.dll
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/obj/Debug/net8.0/refint/NotificationChannelParser.dll
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.pdb
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/obj/Debug/net8.0/NotificationChannelParser.genruntimeconfig.cache
+/home/lyheanhong/Desktop/Seft Improvement/C#/NotificationChannelParser/obj/Debug/net8.0/ref/NotificationChannelParser.dll
